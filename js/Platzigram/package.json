@@ -1,0 +1,16 @@
+{
+  "name": "Platzigram",
+  "version": "0.1.0",
+  "description": "Comparte tus fotos estudiando en platzi",
+  "main": "server.js",
+  "keywords": [
+    "platzi",
+    "javascript",
+    "robbie reta"
+  ],
+  "author": "Robbie Reta.Original by Platzi.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
